@@ -7,10 +7,9 @@ Soy César José Delgado Suárez, un estudiante de ingeniería informática en l
 - Me quiero especializar en Desarrollo Software Fullstack y Multiplataforma.
 
 ## Proyectos
-Actualmente no tengo muchos proyectos guardados que pueda subir, actualmente me encuentro trabajando en una aplicacion para el control de stock, usando estas tecnologias:
-  - Frontend: Vue3.
-  - Backend: Laravel con Laravel Breeze para la gestión de usuarios.
-  - Base de datos: MySQL.
+Actualmente no tengo muchos proyectos guardados que pueda subir, actualmente me encuentro trabajando en una aplicacion para el control del mantenimiento de coches, usando estas tecnologias:
+  - Kotlin con JetPackCompose
+  - Firebase
 
 ## Habilidades Técnicas
 - Lenguajes/Frameworks: Vue3, Laravel, React, React Native, Kotlin.
